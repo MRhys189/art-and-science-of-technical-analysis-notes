@@ -235,9 +235,25 @@ You can be successful focusing on 1 aspect only. But having 2 has better results
 - But it's not that simple
 - There's a common issue in technical analysis
 - ***Strong moves can signal exhaustion, leading to the end of a trend***
-- ![This was seen in a silver futures](./images/buying_climax.png) example where a climax marked the end of a trend
+- ![This was seen in a silver futures](./images/buying_climax.png) example where a climax marked the end of a trend. This type of structure is often referred to as a **parabolic move** or a **blow-off**.
 - Emotional buyers push the market to extreme highs, but eventually, there are no more buyers left
 - Any pause can trigger a crash as there is no support
 - When momentum shifts, weak traders panic sell, adding to the downward pressure
-- Signs of a buying climax include fast trends, big range bars, free bars above the channel, and a subsequent collapse
--
+- Signs of a buying climax include:
+    - fast trends
+    - big range bars
+    - free bars above the channel
+    - subsequent collapse
+- During a blow-off, the range of the bars becomes much larger as the trend steepens and moves away from the average
+- This indicates increased volatility, particularly intraday volatility
+- A notable volume spike usually occurs near the climax move's extreme point, with bars often trading significantly higher volumes compared to the instrument's average
+- In a buying climax, many bars close near their high, while in a selling climax, they close near their low, suggesting intraday exhaustion
+- ***It is uncommon to see bars completely outside Keltner channels, known as free bars, which can signal a potential climax***
+- The same pattern can be seen for the downside ![alt text](./images/selling_climax.png)
+- A climax alone may not be enough to justify taking a position against the trend, but it does serve as a clear risk point
+- Trend traders should be alert when a climax occurs
+- Climactic conditions are only meaningful in relation to recent market history
+- In trading ranges, volatility is lower, so indicators may be skewed
+- **Climax patterns in range breakouts are harder to identify and often result in continuation rather than reversal**
+- It is best to look for climaxes after extended trends
+-![alt text](image.png)
