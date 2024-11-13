@@ -1,34 +1,34 @@
 # Summary Notes On The Art and Science of Technical Analysis
 
-> A positive expectancy results when the trader successfully identifies those moments where markets are slightly less random than usual,
+- A positive expectancy results when the trader successfully identifies those moments where markets are slightly less random than usual,
 and places trades that are aligned with the slight statistical edges present in those areas
-> The bottom line is that you must have an edge. If you are not trading with a statistical advantage over the market, everything else is futile
-> An edge can be described as the ability to find entry and exit poins in the market, so that in the long run and a large sample size later,  the sum of your wins is greater than your losses
-> Market does have memory because the market is determined by traders who associate prices with fear, anger, hopes, etc.
-> BUT NOTE THAT IT IS BUYING AND SELLING BY TRADERS THAT MOVES PRICES
-> The more aggressive the buyers, the further they will lift offers and the less they will wait between spurts of buying. This type of action, and the memory of other traders around previous inflections, creates slight but predictable tendencies in prices.
-> Buying and selling pressures leave patterns. The aim is to find places where these pressures create opportunities in the form of non-random price action(pg 6)
-> The most import fact (the holy grail) is that every edge we have, as a technical trader, comes from imbalance of buying and selling pressures. Limit the involvement in the market to those points where there is an actual i balance, and there is the possibility of making profits.
-> WE DO NOT TRADE PATTERS IN THE MARKET—we trade the **underlying imbalances** that create those patterns.
-> As a small trader, the solution to making money is to focus on 3-day to 2-week swings
+- The bottom line is that you must have an edge. If you are not trading with a statistical advantage over the market, everything else is futile
+- An edge can be described as the ability to find entry and exit poins in the market, so that in the long run and a large sample size later,  the sum of your wins is greater than your losses
+- Market does have memory because the market is determined by traders who associate prices with fear, anger, hopes, etc.
+- BUT NOTE THAT IT IS BUYING AND SELLING BY TRADERS THAT MOVES PRICES
+- The more aggressive the buyers, the further they will lift offers and the less they will wait between spurts of buying. This type of action, and the memory of other traders around previous inflections, creates slight but predictable tendencies in prices.
+- Buying and selling pressures leave patterns. The aim is to find places where these pressures create opportunities in the form of non-random price action(pg 6)
+- The most import fact (the holy grail) is that every edge we have, as a technical trader, comes from imbalance of buying and selling pressures. Limit the involvement in the market to those points where there is an actual i balance, and there is the possibility of making profits.
+- WE DO NOT TRADE PATTERS IN THE MARKET—we trade the **underlying imbalances** that create those patterns.
+- As a small trader, the solution to making money is to focus on 3-day to 2-week swings
 
 ## **Choosing time frames**
-> Looking at multiple time frames provides context for and inform patterns on a single time frame
-> The primary time frame of focus is called the Trading Time Frame(TTF)
-> A higher time frame(HTF) chart shows the bigger picture of where the market is, while the lower time frame(LTF) charts is used to find entry points
-> Time frames should be related to each other by a factor of 3 to 5. E.g., 30-minute charts/5 or 10 minute chart/1 minute chart i.e., 30/5 or 10/1
-> Using a 20-minute chart in conjunction with a 30-minute chart probably adds no new information, as the two charts will be very similar
-> Note that vertical distances on charts scale with the square root of the ratio of the time frames.
-> For instance, if a trader has been trading a system on 5-minute charts with $0.25 stops and wishes to transfer that to 30-minute charts. the stops will have to be adjusted to about $0.61 (0.25 * √(30/5)) 
-> Be consistent with the timeframes and trading styles you are using. Don't be quick to modify this unless you have evidence that it is not working.
+- Looking at multiple time frames provides context for and inform patterns on a single time frame
+- The primary time frame of focus is called the Trading Time Frame(TTF)
+- A higher time frame(HTF) chart shows the bigger picture of where the market is, while the lower time frame(LTF) charts is used to find entry points
+- Time frames should be related to each other by a factor of 3 to 5. E.g., 30-minute charts/5 or 10 minute chart/1 minute chart i.e., 30/5 or 10/1
+- Using a 20-minute chart in conjunction with a 30-minute chart probably adds no new information, as the two charts will be very similar
+- Note that vertical distances on charts scale with the square root of the ratio of the time frames.
+- For instance, if a trader has been trading a system on 5-minute charts with $0.25 stops and wishes to transfer that to 30-minute charts. the stops will have to be adjusted to about $0.61 (0.25 * √(30/5)) 
+- Be consistent with the timeframes and trading styles you are using. Don't be quick to modify this unless you have evidence that it is not working.
 
 ## **Market Action**(pg 13 to 15)
-> Price action is market/price movement
-> Price action creates market structure.  Market structure is the record of how prices moved in the past
-> With respect to `THE FOUNDATION OF TECHNICAL ANALYSIS`, instead of using these complex vocab borrowed from Maths, Signal processing, etc, he proposes that market action appears to be the result of two interacting forces: a `motive force` that attempts to move price from one level to another and a `resistive force` that opposes the motive force. These forces represent the sum of all analysis and decision making at any one time.
-> The normal state of existence of markets most times is a state of equilibrium where the 2 forces are in equilibrium. Market action at this point conforms to the random walk.  These situations are the ones we want to avoid as technical traders because there is no clear statistical edge in a randomly driven market.
-> Markets have a varying degree of liquidity and ability to take large orders. Eventually,  there will be a failiure of liquidity on one side and the market will make a sudden, large move in one direction. No matter what caused this, in theoretical terms, the **motive force has overcome the resistive force**. This sudden movement is called `impulse move / momentum move` 
-> There are 2 options from this point:
+- Price action is market/price movement
+- Price action creates market structure.  Market structure is the record of how prices moved in the past
+- With respect to `THE FOUNDATION OF TECHNICAL ANALYSIS`, instead of using these complex vocab borrowed from Maths, Signal processing, etc, he proposes that market action appears to be the result of two interacting forces: a `motive force` that attempts to move price from one level to another and a `resistive force` that opposes the motive force. These forces represent the sum of all analysis and decision making at any one time.
+- The normal state of existence of markets most times is a state of equilibrium where the 2 forces are in equilibrium. Market action at this point conforms to the random walk.  These situations are the ones we want to avoid as technical traders because there is no clear statistical edge in a randomly driven market.
+- Markets have a varying degree of liquidity and ability to take large orders. Eventually,  there will be a failiure of liquidity on one side and the market will make a sudden, large move in one direction. No matter what caused this, in theoretical terms, the **motive force has overcome the resistive force**. This sudden movement is called `impulse move / momentum move` 
+- There are 2 options from this point:
     1. Resistive forces overcome the motive forces and market finds balance again (the most common option)
         - Balance can be at a new level or price can retrace its course back to the preshock levels
     2. Large spike leads to continued movement in the same direction. A feedback loop will be created where the market makes a large movement, which, in turn,  provokes another large price movement, and the market trends
@@ -36,24 +36,24 @@ and places trades that are aligned with the slight statistical edges present in 
 
 
 ## **PRICE ACTION AND MARKET STRUCTURE ON CHARTS**(pg 15 to )
-> The key elements of market structure are `pivot points` and the `swings` connecting them, both of which may be evaluated either in price (the vertical axis on a chart), in time (the horizontal axis), or in a combination of the two.
-> Price action is subjective, while market structure is concrete.
-> Price action is inferred from market structure. (i.e, IMO, based on the market structure, we can tell where price is going)
-> Price action and market structure are specific to time frames, though price action is often visible as the market structure of lower time frames
+- The key elements of market structure are `pivot points` and the `swings` connecting them, both of which may be evaluated either in price (the vertical axis on a chart), in time (the horizontal axis), or in a combination of the two.
+- Price action is subjective, while market structure is concrete.
+- Price action is inferred from market structure. (i.e, IMO, based on the market structure, we can tell where price is going)
+- Price action and market structure are specific to time frames, though price action is often visible as the market structure of lower time frames
 
 ### **Pivot points**
-> The basic units of market structure on any time frame are pivot highs and lows (also called swing highs or lows)
-> A pivot high is a `bar` that has a higher high than the bar that came before it and the bar that comes after it
-> The bar’s high represents the high-water mark past which buyers were not able to push price, and can be considered a very minor source of potential resistance
-> A pivot low is a `bar` that has the lower low than the bar before and after it.'
-> Note that it is possible for a bar to be `both a pivot high and a pivot low at the same time`,  and that pivot highs and pivot lows are very common.  
+- The basic units of market structure on any time frame are pivot highs and lows (also called swing highs or lows)
+- A pivot high is a `bar` that has a higher high than the bar that came before it and the bar that comes after it
+- The bar’s high represents the high-water mark past which buyers were not able to push price, and can be considered a very minor source of potential resistance
+- A pivot low is a `bar` that has the lower low than the bar before and after it.'
+- Note that it is possible for a bar to be `both a pivot high and a pivot low at the same time`,  and that pivot highs and pivot lows are very common.  
 
 ### **Length of swings**
-> The market structure tells us about the balance of buying and selling pressure in the market. The core concepts are:
-    > When buyers are stronger than sellers, upswings will be longer, both in price and in time, than downswings (i.e., the trend creates a consistent pattern of higher pivot lows and higher pivot highs)
-    > When sellers are in control, downswings will be longer than upswings. (i.e., creating a consistent pattern of lower pivot lows and lower pivot highs)
-    > Significant support and resistance levels are visible as rough areas (not precise lines) beyond which **pivots have been unable to penetrate.**
-    > When there is relative equilibrium, there is no clear pattern to the swings.
+- The market structure tells us about the balance of buying and selling pressure in the market. The core concepts are:
+    - When buyers are stronger than sellers, upswings will be longer, both in price and in time, than downswings (i.e., the trend creates a consistent pattern of higher pivot lows and higher pivot highs)
+    - When sellers are in control, downswings will be longer than upswings. (i.e., creating a consistent pattern of lower pivot lows and lower pivot highs)
+    - Significant support and resistance levels are visible as rough areas (not precise lines) beyond which **pivots have been unable to penetrate.**
+    - When there is relative equilibrium, there is no clear pattern to the swings.
 
 **The Market Cycle and the Four Trades**
 WYCKOFF’S MARKET CYCLE
