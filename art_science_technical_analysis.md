@@ -235,7 +235,8 @@ You can be successful focusing on 1 aspect only. But having 2 has better results
 - But it's not that simple
 - There's a common issue in technical analysis
 - ***Strong moves can signal exhaustion, leading to the end of a trend***
-- ![This was seen in a silver futures](./images/buying_climax.png) example where a climax marked the end of a trend. This type of structure is often referred to as a **parabolic move** or a **blow-off**.
+![This was seen in a silver futures](./images/buying_climax.png)
+- In the above example where a climax marked the end of a trend. This type of structure is often referred to as a **parabolic move** or a **blow-off**.
 - Emotional buyers push the market to extreme highs, but eventually, there are no more buyers left
 - Any pause can trigger a crash as there is no support
 - When momentum shifts, weak traders panic sell, adding to the downward pressure
@@ -247,13 +248,23 @@ You can be successful focusing on 1 aspect only. But having 2 has better results
 - During a blow-off, the range of the bars becomes much larger as the trend steepens and moves away from the average
 - This indicates increased volatility, particularly intraday volatility
 - A notable volume spike usually occurs near the climax move's extreme point, with bars often trading significantly higher volumes compared to the instrument's average
-- In a buying climax, many bars close near their high, while in a selling climax, they close near their low, suggesting intraday exhaustion
+- In a buying climax, many bars close near their high, while in a selling climax, they close near their low, suggesting intraday exhaustion i.e., ==this shows that the climactic conditions extend to the intraday (or intrabar if a weekly or monthly chart) time frame as well, which are probably showing exhaustion or climaxes on their own time frames==
 - ***It is uncommon to see bars completely outside Keltner channels, known as free bars, which can signal a potential climax***
 - The same pattern can be seen for the downside ![alt text](./images/selling_climax.png)
 - A climax alone may not be enough to justify taking a position against the trend, but it does serve as a clear risk point
+- **Do not enter pullbacks following potential climaxes.**
 - Trend traders should be alert when a climax occurs
+- Notice that these examples have come after extended, mature trend runs.
 - Climactic conditions are only meaningful in relation to recent market history
 - In trading ranges, volatility is lower, so indicators may be skewed
 - **Climax patterns in range breakouts are harder to identify and often result in continuation rather than reversal**
-- It is best to look for climaxes after extended trends
--![alt text](image.png)
+- **It is best to look for climaxes after extended trends**
+
+NB:
+Summary Xtics of a blowoff
+1. Range of bars increases as trend steepens and pulls away from the average (see Keltner link below)
+2. Bars close at or near their high in a buying climax which indicates intraday exhaustion.
+3. Presence of free bars which indicates a potential climax
+
+
+> [A more detailed look of how to use Keltner channels](https://www.investopedia.com/terms/k/keltnerchannel.asp)
